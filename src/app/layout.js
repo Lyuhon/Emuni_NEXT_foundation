@@ -86,7 +86,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "EMU University Tashkent",
+  title: "EMU Pre-Foundation",
   description: "EURASIAN MULTIDISCIPLINARY UNIVERSITY",
 };
 
